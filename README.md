@@ -1,2 +1,2 @@
 # IBM-SKILLSBUILD
-This Repository deals with the project folders and documents
+This Repository deals with the IBM project folders and documents
